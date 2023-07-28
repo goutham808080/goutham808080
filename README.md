@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goutham808080
 - 👀 I’m interested in  Programming/Geopolitics/Chess/Music/Movies
-- 🌱 I’m currently learning C language
+- 🌱 Java,Python,HTML,CSS and looking on JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me INSTA- goutham_808
 
